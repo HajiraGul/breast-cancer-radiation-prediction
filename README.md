@@ -100,7 +100,7 @@ Naive Bayes and Logistic Regression achieved the highest accuracy and demonstrat
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/breast-cancer-radiation-prediction.git
+https://github.com/HajiraGul/breast-cancer-radiation-prediction.git
 ```
 
 ### 2️⃣ Navigate to Project Directory
